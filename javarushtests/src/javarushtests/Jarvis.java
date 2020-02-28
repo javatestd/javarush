@@ -21,5 +21,8 @@ public class Jarvis {
 		Jarvis jarvis = new Jarvis();
 		jarvis.sayHi("Tom");
         jarvis.sayHi("Tom", "Monica");
+        
+        System.out.println("test");
 	}
+	
 }
